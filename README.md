@@ -1,2 +1,2 @@
-# arriving-here.github.io
-very very very alpha version of game website
+# ultimate multiverse battlegrounds
+add /UMB.html to get main site
