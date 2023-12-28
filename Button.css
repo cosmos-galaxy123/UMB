@@ -9,4 +9,10 @@ button:hover {
     0 0 100px cyan, 0 0 200px cyan
 }
 
-/script by wedesignwalah30 on YouTube, just a credit :D/
+/*script by wedesignwalah30 on YouTube, just a credit :D*/
+
+.button-container {
+    text-align: center;
+}
+
+/*button not centered fix it*/
